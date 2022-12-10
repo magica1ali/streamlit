@@ -1,7 +1,0 @@
-streamlit
-pandas
-altair
-numpy
-sklearn.linear_model
-sklearn.model_selection
-sklearn.metrics
